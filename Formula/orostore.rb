@@ -2,9 +2,9 @@
 class Orostore < Formula
   desc "Manage your organisation's Oropod Storage: crew, Seats and managers"
   homepage "https://oropod.com"
-  url "https://github.com/oropod/homebrew-tap/releases/download/orostore-v0.6.1/orostore-0.6.1-macos.tar.gz"
-  sha256 "b1789f30ffd95b9ac18e47ab8098985a6f820dd1e4017caa65b7b60f8a3572c7"
-  version "0.6.1"
+  url "https://github.com/oropod/homebrew-tap/releases/download/orostore-v0.7.0/orostore-0.7.0-macos.tar.gz"
+  sha256 "2d0f7e6e5463678e963600cfdca0a0df48970e17365c207e9ea13e41cb651144"
+  version "0.7.0"
 
   depends_on macos: :sequoia
 
